@@ -1,0 +1,480 @@
+@charset "utf-8";
+
+
+
+.basic {
+  margin: 0;
+  padding: 0;
+  font-family: '나눔 고딕', NanumGothic, '돋움', Dotum, sans-serif;
+}
+
+.header-1 {
+  background-color: #000;
+}
+
+.header-2 {
+  width: 1080px;
+  margin: auto;
+  height: 120px;
+}
+
+.header-3 {
+  line-height: 40px;
+  color: #fff;
+  padding: 40px;
+  font-size: 40px;
+  margin: 0px;
+}
+
+.body {
+  margin: auto;
+  width: 1000px;
+  padding: 40px;
+}
+
+.common {
+  float: left;
+  font-size: 16px;
+  height: 33px;
+  line-height: 33px;
+  text-align: center;
+  border: 1px solid #d1d1d1;
+  background-color: white;
+  width: 322px;
+  margin-right: 14px;
+}
+
+.common:last-child {
+  margin-right: 0px;
+}
+
+.common:hover {
+  border: 1px solid #454545;
+  font-weight: bold;
+}
+
+.link {
+  text-decoration: none;
+  color: #000;
+  display: block;
+}
+
+.link:hover {
+  text-decoration: none;
+}
+
+.element {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  clear: left;
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 40px 0px 20px 0px;
+  border-bottom: 1px solid #454545;
+}
+
+.element-common {
+  margin: 0px;
+  border: 1px solid #d1d1d1;
+}
+
+.element-title {
+  font-size: 16px;
+  color: #333;
+  height: 46px;
+  line-height: 46px;
+  padding-left: 15px;
+  background-color: #f7f7f7;
+  font-weight: bold;
+  border-bottom: 1px solid #d1d1d1;
+}
+
+.element-content {
+  padding: 30px;
+  background-color: white;
+  font-size: 12px;
+  color: #000;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 100%
+
+}
+
+caption{
+  text-align: left;
+  padding-bottom: 14px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+thead {
+  background-color: #fbfbfb;
+}
+
+
+.col-width-kid1{
+  width:8.16%;
+}
+
+.col-width-kid2{
+  width:4.9%;
+}
+
+.col-width-kid3{
+  width:8.58%;
+}
+
+.col-width-refund1{
+  width: 40%;
+}
+
+.col-width-refund2{
+  width: 20%;
+}
+
+.table-css {
+  font-weight: bold;
+}
+
+.table-css11{
+  font-weight: normal;
+}
+
+.table-css1 {
+  border: 1px solid #e4e4e4; 
+  text-align: center;
+  color: #555;
+  padding: 12px 0px;
+  
+  }
+
+.table-css2 {
+  border-top: 2px solid #a5a5a5;
+  border-bottom: 1px solid #e4e4e4; 
+  text-align: center;
+  color: #555;
+  padding: 12px 0px;
+  
+  }
+  
+
+
+
+.table-css3 {
+   text-align: center;
+   color: #555;
+   padding: 12px 0px;
+  }
+
+
+
+   
+.align-right{
+  text-align: right;
+  padding-right: 65px;
+}
+
+
+.refund {
+ margin-top: 50px;
+}
+
+.sign-background {
+  padding: 18px;
+  background-color: #fbfbfb;
+  border: 1px solid #e4e4e4;
+  margin: 0px;
+
+}
+
+.label {
+  font-size: 14px;
+  font-weight: bold;
+
+}
+
+.title2 {
+  margin-top: 0px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+
+
+.sign-up {
+  margin-top: 10px;
+  width: 97%;
+  padding: 10px;
+}
+
+
+
+.sign-width {
+  width: 74%;
+}
+
+.button {
+  width: 22.5% ;
+  padding: 10px;
+  font-size: 12px;
+  background-color: #4ec53d;
+  border: 1px solid #08a600 ;
+  color: #fff;
+  cursor: pointer;
+}
+
+.birth {
+  width: 32.2%;
+  padding: 5px 5px;
+
+}
+
+.margin-left {
+  margin-left: 10px;
+}
+
+.gender {
+  margin-left: 80px;
+}
+
+.hobby-margin {
+  margin-left: 70px;
+}
+
+.sign {
+  width: 100% ;
+  padding: 10px;
+  background-color: #4ec53d;
+  border: 1px solid #08a600 ;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+
+}
+
+.dic-project {
+  border: 1px solid #e4e4e4;
+  margin: 14px 0px 50px 0px;
+  padding: 35px 15px;
+}
+
+.title3 {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 35px;
+  margin-top: 0px;
+}
+
+.project-dt1 {
+  font-size: 14px;
+  font-weight: bold;
+
+}
+
+.project-dt2 {
+  color: #559bfa;
+}
+
+.project-dd {
+  margin-top: 5px;
+  margin-left: 0px;
+  margin-bottom: 20px; 
+  line-height: 17px;
+
+}
+
+.real-time {
+  display: inline-block;
+  border: 1px solid #e4e4e4;
+  padding: 1.7em;
+  width : 20%;
+  margin: 0px 0px 50px 0px;
+
+}
+
+
+.rank {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  list-style: none;
+  padding: 0px;
+}
+
+.rnk {
+  border: 1px solid #e0e0e0;
+  font-size: 10px;
+  color: #666;
+  line-height: 17px;
+  width: 17px;
+  height: 17px;
+
+  display: inline-block;
+  text-align: center; 
+}
+
+.rnk_mgn {
+  margin-bottom: 10px;
+}
+
+.link_keyword {
+  margin-left: 10px;
+  text-decoration: none;
+  color: #000;
+}
+
+.link_keyword:hover {
+  text-decoration: underline;
+}
+
+.cookie {
+  border: 1px solid #e4e4e4;
+  margin: 5px 0px 50px 0px;
+  padding: 20px 0px 20px 35px;
+}
+
+.cookie-1 {
+  padding: 0px;
+  margin: 0px;
+}
+
+.cookie_font1 {  
+  font-weight: bold;
+}
+
+.cookie_margin1 {
+  margin-bottom: 12px;
+}
+
+.cookie_margin2 {
+margin-bottom: 3px;
+}
+
+
+.blue {
+  color: #559bfa;
+}
+
+.red {
+  color: #ec5336;
+}
+
+.pcs-history {
+  color: #559bfa;
+  text-decoration: underline;
+}
+
+.news {
+  border: 1px solid #e4e4e4;
+  padding: 2em;
+  margin-bottom: 50px;
+}
+
+.news-1 {
+  border-bottom: 1px solid #e4e4e4;
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+}
+
+.news-11 {
+  color: #00c;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.news-12 {
+  line-height: 1.6em;
+  padding: 5px 0 0 0;
+  margin: 0px;
+}
+
+.image-1 {
+  float: left;
+  margin-right: 1em;
+}
+
+.webtoon {
+  padding: 20px 21px 20px 0px;
+  border: 1px solid #e4e4e4;
+  height: 100%;
+    
+}
+
+.toon_list {
+  margin: 0px;
+  list-style: none;
+  padding: 0px;
+  overflow: hidden;  
+}
+
+.ul-li {
+  float: left;
+  margin-left: 20px;
+  margin-bottom: 18px;
+}
+
+
+.desc {
+  text-decoration: none;
+}
+.desc:hover {
+  text-decoration: underline;
+}
+
+.desc-1 {  
+  color: #000;
+  font-weight: bold;
+  font-size: 14px;
+  margin: 0px;
+  padding: 5px 0px;
+}
+
+.desc-2 {
+color: #000;
+margin: 0px;
+}
+
+.tooncs-1 {
+  border: 1px solid #71b036;
+  background-color: #80c83d;
+  font-size: 10px;
+  color: #fff;
+  padding: 1.5px 3px;
+}
+
+.tooncs-2 {
+  border: 1px solid #df4e28;
+  background-color: #ec5336;
+  font-size: 10px;
+  color: #fff;
+  padding: 1.5px 3px;
+}
+
+
+.footer {
+  border-top: 1px solid #d1d1d1;
+  padding: 20px;  
+}
+
+.footer1 {
+  text-align: center;
+  font-size: 12px;
+  padding: 12px;
+  color: #999;
+  margin: 0px;
+}
+
+.footer2 {
+  text-align: center;
+  font-size: 12px;
+  color: #000;
+  margin: 0px;
+}
